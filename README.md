@@ -1,11 +1,11 @@
 # Quiz-Application-with-Document-Based-Question-Generation-and-LLM-Evaluation
-Project  Overview:
+🚀Project Overview:
 
-This project is an AI-powered Quiz Application that:
+This project is an AI-powered Quiz Application that
 
-1.Accepts a document (PDF/TXT)
-2.Generates questions from the content
-3.Evaluates user answers
-4.Provides feedback and scores
-5.Stores history
-6.Allows downloading results as PDF
+Accepts a document (PDF/TXT)
+Generates questions from the content
+Evaluates user answers
+Provides feedback and scores
+Stores history
+Allows downloading results as PDF
