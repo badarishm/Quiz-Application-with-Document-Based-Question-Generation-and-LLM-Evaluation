@@ -1,5 +1,5 @@
 # Quiz-Application-with-Document-Based-Question-Generation-and-LLM-Evaluation
-#Project Overview:
+# Project Overview:
 
 This project is an AI-powered Quiz Application that
 
@@ -10,7 +10,7 @@ This project is an AI-powered Quiz Application that
 - Stores history
 - Allows downloading results as PDF
 ---
-#Features:
+# Features:
 
 - Upload PDF/TXT documents
 - Generate up to 30 questions
@@ -21,13 +21,13 @@ This project is an AI-powered Quiz Application that
 - Download results as PDF
 - Clean and user-friendly UI
 ---
-#Tech Stack:
-🔹 Backend
+# Tech Stack:
+# Backend
 - Python
 - FastAPI
 - SQLite (Database)
 - ReportLab (PDF generation)
-🔹 Frontend
+# Frontend
 - HTML
 - CSS
 - JavaScript
