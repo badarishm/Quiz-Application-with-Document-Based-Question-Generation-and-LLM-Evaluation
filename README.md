@@ -3,9 +3,9 @@
 
 This project is an AI-powered Quiz Application that
 
--Accepts a document (PDF/TXT)
--Generates questions from the content
--Evaluates user answers
--Provides feedback and scores
--Stores history
--Allows downloading results as PDF
+- Accepts a document (PDF/TXT)
+- Generates questions from the content
+- Evaluates user answers
+- Provides feedback and scores
+- Stores history
+- Allows downloading results as PDF
