@@ -20,3 +20,14 @@ This project is an AI-powered Quiz Application that
 - View quiz history
 - Download results as PDF
 - Clean and user-friendly UI
+---
+#Tech Stack:
+🔹 Backend
+- Python
+- FastAPI
+- SQLite (Database)
+- ReportLab (PDF generation)
+🔹 Frontend
+- HTML
+- CSS
+- JavaScript
