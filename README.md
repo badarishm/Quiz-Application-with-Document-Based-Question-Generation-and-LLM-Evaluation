@@ -9,7 +9,7 @@ This project is an AI-powered Quiz Application that
 - Provides feedback and scores
 - Stores history
 - Allows downloading results as PDF
---
+---
 #Features:
 
 - Upload PDF/TXT documents
