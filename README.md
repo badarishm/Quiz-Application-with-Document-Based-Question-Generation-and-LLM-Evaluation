@@ -93,11 +93,13 @@ This project solves that by:
 
 ## 🧰 Tech Stack
 
-* Python
-* Gradio (Frontend)
-* Transformers / LLM
-* Ollama (Local model - Mistral)
-* PyPDF / document processing libraries
+| Module 1      | Module 2    | Module 3    | Module 4      |
+| Document      | Question    | Answer      | Result        |
+| Ingestion     | Generation  | Evaluation  | Summary       |
++---------------+-------------+-------------+---------------+
+| PyMuPDF       | T5-base QG  | MiniLM-L6   | pandas CSV    |
+| python-docx   | SQuAD FT    | Cosine Sim  | Gradio UI     |
+| NLTK chunking |
 
 ---
 
