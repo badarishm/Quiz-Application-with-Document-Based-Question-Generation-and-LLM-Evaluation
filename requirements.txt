@@ -2,3 +2,9 @@ transformers
 torch
 gradio
 langchain
+pandas
+numpy
+nltk
+sentence-transformers
+pymupdf
+scikit-learn
