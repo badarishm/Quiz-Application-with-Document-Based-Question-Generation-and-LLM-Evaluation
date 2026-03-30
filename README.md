@@ -92,14 +92,25 @@ This project solves that by:
 ---
 
 ## 🧰 Tech Stack
+# Module 1: Document Ingestion
+- PyMuPDF
+- python-docx
+- NLTK (Text preprocessing & chunking)
 
-| Module 1      | Module 2    | Module 3    | Module 4      |
-| Document      | Question    | Answer      | Result        |
-| Ingestion     | Generation  | Evaluation  | Summary       |
-+---------------+-------------+-------------+---------------+
-| PyMuPDF       | T5-base QG  | MiniLM-L6   | pandas CSV    |
-| python-docx   | SQuAD FT    | Cosine Sim  | Gradio UI     |
-| NLTK chunking |
+# Module 2: Question Generation
+- T5-base QG
+- SQuAD FT
+- num_beams=4
+
+# Module 3: Answer Evaluation
+- MiniLM-L6
+- Cosine Sim
+- KW overlap
+
+# Module 4: Result Summary
+- pandas CSV
+- Gradio UI
+- HTML Report
 
 ---
 
